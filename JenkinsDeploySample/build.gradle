@@ -1,0 +1,1 @@
+task buildWSO2(type:Exec){commandLine 'mvn', 'clean', 'install'}
