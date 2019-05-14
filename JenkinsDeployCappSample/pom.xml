@@ -94,7 +94,7 @@
         <configuration>
           <carbonServers>
             <CarbonServer>
-              <trustStorePath>/Users/hemantsingh/Downloads/wso2esb-4.9.0/repository/resources/security/jenkins-truststore.jks</trustStorePath>
+              <trustStorePath>/Users/hemantsingh/Downloads/wso2esb-4.9.0/repository/resources/security/client-truststore.jks</trustStorePath>
               <trustStorePassword>wso2carbon</trustStorePassword>
               <trustStoreType>JKS</trustStoreType>
               <serverUrl>https://localhost:9443</serverUrl>
